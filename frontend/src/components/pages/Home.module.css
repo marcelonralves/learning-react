@@ -4,5 +4,27 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding: 4rem;
 }
 
+.home_container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5em;
+}
+
+.home_container h1 span {
+    color: #ffbb33;
+    padding: 0 .2em;
+    background-color: #222;
+    border-radius: 5px;
+}
+
+.home_container p {
+    margin-bottom: 1.5rem;
+    font-weight: 300;
+    color: #7b7b7b;
+}
+
+.home_container img {
+    width: 350px;
+}
