@@ -13,13 +13,10 @@ import Footer from './components/layout/Footer'
 
 function App() {
 
-  const styleHeight = {
-    min_height: '75%',
-  }
   return (
     <Router>
       <Navbar />
-      <Container>
+      <Container customClass="min_height">
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/company" element={<Company/>} />
