@@ -1,6 +1,29 @@
 {
-  "projects" : [],
-  "categories" : [
+  "projects": [
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "project_name": "ssd",
+      "project_budget": "777",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "project_name": "ssd",
+      "project_budget": "777",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
     {
       "id": 1,
       "name": "Infra"
